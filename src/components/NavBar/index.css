@@ -1,0 +1,36 @@
+/* Write your code here. */
+.navbar-container {
+  display: flex;
+  justify-content: center;
+  background-color: #ffffff33;
+  padding: 8px;
+}
+.navbar-title-container {
+  display: flex;
+  justify-content: space-between;
+  flex-basis: 80%;
+  max-width: 1000px;
+}
+.navbar-logo-container {
+  display: flex;
+  align-items: center;
+}
+.navbar-logo-img {
+  width: 25%;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #ffffff;
+  font-weight: 700;
+}
+.score-container {
+  display: flex;
+}
+.score {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #ffffff;
+  font-weight: 700;
+  margin-left: 24px;
+}
